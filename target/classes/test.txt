@@ -1,0 +1,20 @@
+
+5
+1 1 0 1 1
+0 1 1 1 0
+0 0 0 1 1
+1 0 0 1 0
+1 1 1 1 1
+
+goudan2 60 80 80
+zhaowu 60 80 80
+zhangsan 60 80 80
+yatou 90 80 80
+goudan1 60 80 80
+gousheng 80 100 60
+lilei 80 100 60
+hanmingmei 80 90 60
+liutao 80 100 60
+SimonYin 80 100 60
+
+
