@@ -4,23 +4,25 @@ public class Q5_LongestPalindrome {
     public String longestPalindrome(String s) {
         String substring = null;
         int length = s.length();
-        for (int i = length; i > 1; i--) {    // 当前最大回文长度
+        if(length == 0)
+            return "";
+        for (int i = length - 1; i > 0; i--) {    // 当前最大回文长度
             for (int j = 0; j < length - i; j++) {
-                substring = s.substring(j,j+i);
-                if(palindrome(substring.toCharArray())){
-                    break;
+//                System.out.println("i: " + i + " j: " + j);
+                substring = s.substring(j, j + i + 1);
+                System.out.println(substring);
+                if (palindrome(substring.toCharArray())) {
+                    return substring;
                 }
             }
         }
-        if(substring.length() == 1)
-            return s.substring(0,1);
-        return substring;
+        return s.substring(0,1);
     }
 
     public boolean palindrome(char[] chars) {
         int length = chars.length;
-        for (int i = 0; i < (length / 2 - 1); i++) {
-            if (chars[i] != chars[length - i - 1]){
+        for (int i = 0; i < length / 2; i++) {
+            if (chars[i] != chars[length - i - 1]) {
                 return false;
             }
         }
@@ -29,6 +31,7 @@ public class Q5_LongestPalindrome {
 
     public static void main(String[] args) {
         Q5_LongestPalindrome q5_longestPalindrome = new Q5_LongestPalindrome();
-        System.out.println(q5_longestPalindrome.longestPalindrome("aba"));
+//        System.out.println(q5_longestPalindrome.palindrome("abba".toCharArray()));
+        System.out.println(q5_longestPalindrome.longestPalindrome("cbbd"));
     }
 }
