@@ -2,26 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e3bc377-4eea-445e-89fb-96777c7ddf5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q10_IsMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q11_MaxArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q12_IntToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q13_RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q6_Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q7_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q8_MyAtoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q9_IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/leetcode_and_interviewalgorithm.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Q10_IsMatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Q11_MaxArea.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Q6_Convert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Q7_Reverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Q8_MyAtoi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Q9_IsPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/MaxPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/SortUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q10_RectCover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q11_NumberOf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q12_Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q13_ReOrderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q14_FindKthToTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q15_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q16_Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q1_Find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q2_ReplaceSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q3_PrintListFromTailToHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q4_ReConstructBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q5_TwoStackOneQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q6_MinNumberInRotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q7_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q8_JumpFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q9_JumpFloorII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q14_LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q15_ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q16_ThreeSumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q17_LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q18_FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/algorithm/Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/algorithm/SortUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Q14_LongestCommonPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Q15_ThreeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Q16_ThreeSumClosest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Q5_LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q5_LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/leetcode_and_interviewalgorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/leetcode_and_interview.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Client$RecThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Client$RecThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Client$SendThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Client$SendThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Client.class" afterDir="false" />
@@ -32,12 +44,21 @@
       <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Server$Rec_Sen_Thread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Server$Rec_Sen_Thread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Server.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q10_IsMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q10_IsMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q11_MaxArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q11_MaxArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q12_IntToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q12_IntToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q13_RomanToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q13_RomanToInt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q1_TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q1_TwoSum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q2_AddTwoNumbers$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q2_AddTwoNumbers$ListNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q2_AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q2_AddTwoNumbers.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q3_LengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q3_LengthOfLongestSubstring.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q4_FindMedianSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q4_FindMedianSortedArrays.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q5_LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q5_LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q6_Convert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q6_Convert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q7_Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q7_Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q8_MyAtoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q8_MyAtoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q9_IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q9_IsPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Result.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +85,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -88,6 +110,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -95,18 +119,30 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3387471" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.splitter.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Q13_RomanToInt">
-    <configuration name="Q11_MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Q11_MaxArea" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="leetcode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jianzhi" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Q13_ReOrderArray">
+    <configuration name="Q13_ReOrderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi.Q13_ReOrderArray" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="jianzhi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,8 +163,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q6_Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Q6_Convert" />
+    <configuration name="Q15_ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Q15_ThreeSum" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
@@ -140,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q8_MyAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Q8_MyAtoi" />
+    <configuration name="Q2_ReplaceSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi.Q2_ReplaceSpace" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="jianzhi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,80 +189,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q9_IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Q9_IsPalindrome" />
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Sort" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="leetcode_and_interview" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="leetcode_and_interview" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q6_Convert" />
-      <item itemvalue="Application.Q8_MyAtoi" />
-      <item itemvalue="Application.Q9_IsPalindrome" />
-      <item itemvalue="Application.Q11_MaxArea" />
       <item itemvalue="Application.Q13_RomanToInt" />
+      <item itemvalue="Application.Q15_ThreeSum" />
+      <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.Q2_ReplaceSpace" />
+      <item itemvalue="Application.Q13_ReOrderArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q13_ReOrderArray" />
+        <item itemvalue="Application.Q2_ReplaceSpace" />
+        <item itemvalue="Application.Q15_ThreeSum" />
+        <item itemvalue="Application.Sort" />
         <item itemvalue="Application.Q13_RomanToInt" />
-        <item itemvalue="Application.Q11_MaxArea" />
-        <item itemvalue="Application.Q9_IsPalindrome" />
-        <item itemvalue="Application.Q8_MyAtoi" />
-        <item itemvalue="Application.Q6_Convert" />
       </list>
     </recent_temporary>
   </component>
@@ -249,6 +238,8 @@
       <workItem from="1579855339163" duration="330000" />
       <workItem from="1581477393464" duration="18928000" />
       <workItem from="1581737174253" duration="6631000" />
+      <workItem from="1581929112375" duration="15469000" />
+      <workItem from="1582339559351" duration="31557000" />
     </task>
     <servers />
   </component>
@@ -256,42 +247,64 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1581845019898">
+    <state x="440" y="192" key="#Project_Structure" timestamp="1582552728166">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581845019898" />
+    <state x="440" y="192" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1582552728166" />
+    <state x="576" y="358" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1582430656312">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="576" y="358" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582430656312" />
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1582460816704">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1582460816704" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1582619277424">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582619277424" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056519" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017796" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1581845019897">
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1582619277423">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581845019897" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582619277423" />
     <state width="1638" height="295" key="GridCell.Tab.0.center/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056517" />
     <state width="1638" height="295" key="GridCell.Tab.0.center/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017794" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1581845019896">
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1582619277422">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581845019896" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582619277422" />
     <state width="1638" height="295" key="GridCell.Tab.0.left/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056516" />
     <state width="1638" height="295" key="GridCell.Tab.0.left/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017792" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1581845019897">
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1582619277424">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581845019897" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582619277424" />
     <state width="1638" height="295" key="GridCell.Tab.0.right/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056518" />
     <state width="1638" height="295" key="GridCell.Tab.0.right/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017795" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1581819458474">
+    <state x="564" y="239" width="900" height="722" key="SettingsEditor" timestamp="1582552255823">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581819458474" />
+    <state x="564" y="239" width="900" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1582552255823" />
     <state x="341" y="164" key="SettingsEditor/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581512422176" />
-    <state x="494" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1581737175200">
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1582339601599">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582339601599" />
     <state x="494" y="359" key="com.intellij.ide.util.TipDialog/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737175200" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1581560859194">
+    <state x="619" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582428088789">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="619" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582428088788" />
+    <state x="578" y="286" key="extract.method.dialog" timestamp="1582622020358">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="286" key="extract.method.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582622020358" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1582600989846">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582600989846" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581560859194" />
   </component>
   <component name="XDebuggerManager">
