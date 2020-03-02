@@ -43,8 +43,8 @@ p = "mis*is*p*."
 
 // 没做出来，回溯+递归/动态规划
 enum Result {
-    TRUE, FALSE
-}
+        TRUE, FALSE
+        }
 
 public class Q10_IsMatch {
     public boolean isMatch(String s, String p) {

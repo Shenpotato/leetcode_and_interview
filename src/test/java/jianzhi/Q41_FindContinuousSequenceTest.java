@@ -24,6 +24,5 @@ public class Q41_FindContinuousSequenceTest {
         Integer []expectedArray = (Integer[]) expectedValue.toArray();
         Integer []acutalArray = (Integer[]) q41_findContinuousSequnce.findContinuousSequence1(sum).toArray();
         Assertions.assertArrayEquals(expectedArray,acutalArray);
-
     }
 }

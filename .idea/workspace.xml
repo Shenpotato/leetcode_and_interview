@@ -2,34 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e3bc377-4eea-445e-89fb-96777c7ddf5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q27_Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q28_MoreThanHalfNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q29_GetLeastNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q30_FindGreatestSumOfSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q31_NumberOf1Between1AndN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q32_PrintMinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q33_GetUglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q34_FirstNotRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q35_InversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q36_FindFirstCommonNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q37_GetNumberOfK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q38_TreeDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q39_IsBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q40_FindNumsAppearOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q41_FindContinuousSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q42_FindNumbersWithSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q43_LeftRotateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q30_FindGreatestSumOfSubArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q31_NumberOf1Between1AndNTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q33_GetUglyNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q35_InversePairsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q41_FindContinuousSequenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/Java8_Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q45_IsContinuous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q46_LastRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q47_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q48_Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q49_StrToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q50_Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q51_Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q52_Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q53_IsNumeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q54_FirstAppearOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q55_EntryNodeOfLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q56_DeleteDuplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q57_GetNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q57_IsSymmetrical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q58_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q59_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q60_Serialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q61_KthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q49_StrToIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q52_MatchTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q15_ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q15_ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q12_Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q12_Power.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q44_ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q44_ReverseSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Q10_IsMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q10_IsMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/jianzhi/Q41_FindContinuousSequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q41_FindContinuousSequenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q41_FindContinuousSequnce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jianzhi/Q41_FindContinuousSequnceTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -93,7 +101,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3387471" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="settings.editor.splitter.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
@@ -107,8 +115,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Q41_FindContinuousSequenceTest.test">
-    <configuration name="Q33_GetUglyNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Q52_MatchTest.test">
+    <configuration name="Q44_ReverseSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi.Q44_ReverseSentence" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
@@ -116,14 +125,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jianzhi" />
-      <option name="MAIN_CLASS_NAME" value="jianzhi.Q33_GetUglyNumberTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q33_GetUglyNumberTest.testGetUglyNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q46_LastRemaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi.Q46_LastRemaining" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
@@ -131,47 +138,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jianzhi" />
-      <option name="MAIN_CLASS_NAME" value="jianzhi.Q33_GetUglyNumberTest" />
-      <option name="METHOD_NAME" value="testGetUglyNumber" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q33_GetUglyNumberTest.testIsUglyNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode_and_interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jianzhi" />
-      <option name="MAIN_CLASS_NAME" value="jianzhi.Q33_GetUglyNumberTest" />
-      <option name="METHOD_NAME" value="testIsUglyNumber" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q35_InversePairsTest.testMergeSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode_and_interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jianzhi" />
-      <option name="MAIN_CLASS_NAME" value="jianzhi.Q35_InversePairsTest" />
-      <option name="METHOD_NAME" value="testMergeSort" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q41_FindContinuousSequenceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q41_FindContinuousSequenceTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
@@ -181,6 +152,38 @@
       </extension>
       <option name="PACKAGE_NAME" value="jianzhi" />
       <option name="MAIN_CLASS_NAME" value="jianzhi.Q41_FindContinuousSequenceTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q49_StrToIntTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_and_interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jianzhi" />
+      <option name="MAIN_CLASS_NAME" value="jianzhi.Q49_StrToIntTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q52_MatchTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_and_interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jianzhi" />
+      <option name="MAIN_CLASS_NAME" value="jianzhi.Q52_MatchTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -188,19 +191,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Q33_GetUglyNumberTest.testIsUglyNumber" />
-      <item itemvalue="JUnit.Q33_GetUglyNumberTest" />
-      <item itemvalue="JUnit.Q33_GetUglyNumberTest.testGetUglyNumber" />
-      <item itemvalue="JUnit.Q35_InversePairsTest.testMergeSort" />
-      <item itemvalue="JUnit.Q41_FindContinuousSequenceTest.test" />
+      <item itemvalue="Application.Q44_ReverseSentence" />
+      <item itemvalue="Application.Q46_LastRemaining" />
+      <item itemvalue="JUnit.Q41_FindContinuousSequenceTest.test1" />
+      <item itemvalue="JUnit.Q49_StrToIntTest.test" />
+      <item itemvalue="JUnit.Q52_MatchTest.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Q41_FindContinuousSequenceTest.test" />
-        <item itemvalue="JUnit.Q35_InversePairsTest.testMergeSort" />
-        <item itemvalue="JUnit.Q33_GetUglyNumberTest.testGetUglyNumber" />
-        <item itemvalue="JUnit.Q33_GetUglyNumberTest.testIsUglyNumber" />
-        <item itemvalue="JUnit.Q33_GetUglyNumberTest" />
+        <item itemvalue="JUnit.Q52_MatchTest.test" />
+        <item itemvalue="JUnit.Q49_StrToIntTest.test" />
+        <item itemvalue="JUnit.Q41_FindContinuousSequenceTest.test1" />
+        <item itemvalue="Application.Q46_LastRemaining" />
+        <item itemvalue="Application.Q44_ReverseSentence" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +227,7 @@
       <workItem from="1581477393464" duration="18928000" />
       <workItem from="1581737174253" duration="6631000" />
       <workItem from="1581929112375" duration="15469000" />
-      <workItem from="1582339559351" duration="72793000" />
+      <workItem from="1582339559351" duration="104467000" />
     </task>
     <servers />
   </component>
@@ -244,10 +247,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="100" y="100" width="1480" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1582790976680" />
-    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1582460816704">
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1583069010377">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1582460816704" />
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1583069010377" />
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582941308909">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -256,32 +259,32 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="280" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582681622943" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1582941141231">
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1583054454968">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582941141231" />
-    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582889516413" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583054454968" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582965482596" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056519" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017796" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1582941141229">
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1583054454967">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582941141229" />
-    <state width="1638" height="363" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582889516412" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583054454967" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582965482594" />
     <state width="1638" height="295" key="GridCell.Tab.0.center/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056517" />
     <state width="1638" height="295" key="GridCell.Tab.0.center/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017794" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1582941141228">
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1583054454966">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582941141228" />
-    <state width="1638" height="363" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582889516411" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583054454966" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582965482593" />
     <state width="1638" height="295" key="GridCell.Tab.0.left/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056516" />
     <state width="1638" height="295" key="GridCell.Tab.0.left/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017792" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1582941141230">
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1583054454967">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582941141230" />
-    <state width="1638" height="363" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582889516413" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583054454967" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582965482595" />
     <state width="1638" height="295" key="GridCell.Tab.0.right/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056518" />
     <state width="1638" height="295" key="GridCell.Tab.0.right/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017795" />
     <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1582889516417">
@@ -308,10 +311,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="378" y="188" key="Maven.ArtifactSearchDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582774222938" />
-    <state x="564" y="239" width="900" height="722" key="SettingsEditor" timestamp="1582552255823">
+    <state x="564" y="239" width="900" height="722" key="SettingsEditor" timestamp="1583068847824">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="564" y="239" width="900" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1582552255823" />
+    <state x="564" y="239" width="900" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583068847824" />
     <state x="341" y="164" key="SettingsEditor/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581512422176" />
     <state x="494" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1582339601599">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -330,10 +333,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="546" y="151" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582707582840" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1582941536496">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1583068901287">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582941536496" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1583068901287" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581560859194" />
   </component>
   <component name="XDebuggerManager">
