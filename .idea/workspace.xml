@@ -2,35 +2,148 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e3bc377-4eea-445e-89fb-96777c7ddf5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/Java8_Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q45_IsContinuous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q46_LastRemaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q47_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q48_Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q49_StrToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q50_Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q51_Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q52_Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q53_IsNumeric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q54_FirstAppearOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q55_EntryNodeOfLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q56_DeleteDuplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q57_GetNext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q57_IsSymmetrical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q58_Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q59_Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q60_Serialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q61_KthNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q49_StrToIntTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q52_MatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/CountNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/Count_Min_Sketch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/Kruskal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/Misra_Gries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewMeituan/Q2_XiaoMeiGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewMeituan/Q3_FindFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewMeituan/SixNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewTencent/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewTencent/Q1_FindCommon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewTencent/Q2_SendMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewTencent/Q4_Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewTencent/TecentAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q62_Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q63_MaxInWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q64_HashPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q65_MovingCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q66_CutRope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThread/LoopPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q65_MovingCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/Q1_TwoSumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q44_ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q44_ReverseSentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Q10_IsMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q10_IsMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/jianzhi/Q41_FindContinuousSequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q41_FindContinuousSequenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q41_FindContinuousSequnce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jianzhi/Q41_FindContinuousSequnceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q10_RectCover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q10_RectCover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q13_ReOrderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q13_ReOrderArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q2_ReplaceSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q2_ReplaceSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q3_PrintListFromTailToHead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q3_PrintListFromTailToHead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q4_ReConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q4_ReConstructBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q5_TwoStackOneQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q5_TwoStackOneQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q61_KthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q61_KthNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jianzhi/Q9_JumpFloorII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jianzhi/Q9_JumpFloorII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Q1_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q1_TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Q2_AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q2_AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Q3_LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q3_LengthOfLongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Q4_FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Q4_FindMedianSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/jianzhi/Q52_MatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jianzhi/Q52_MatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/MaxPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/MaxPQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/SortUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/SortUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Client$RecThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Client$RecThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Client$SendThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Client$SendThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Problem1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Problem2$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Problem2$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Problem2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Problem3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Problem3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Server$Rec_Sen_Thread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Server$Rec_Sen_Thread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewhuawei/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewhuawei/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q10_RectCover.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q10_RectCover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q11_NumberOf1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q11_NumberOf1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q12_Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q12_Power.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q13_ReOrderArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q13_ReOrderArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q14_FindKthToTail$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q14_FindKthToTail$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q14_FindKthToTail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q14_FindKthToTail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q15_ReverseList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q15_ReverseList$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q15_ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q15_ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q16_Merge$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q16_Merge$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q16_Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q16_Merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q17_HasSubtree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q17_HasSubtree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q17_HasSubtree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q17_HasSubtree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q18_Mirror$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q18_Mirror$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q18_Mirror.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q18_Mirror.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q19_PrintMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q19_PrintMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q1_Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q1_Find.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q20_Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q20_Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q21_IsPopOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q21_IsPopOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q22_PrintFromTopToBottom$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q22_PrintFromTopToBottom$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q22_PrintFromTopToBottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q22_PrintFromTopToBottom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q23_VerifySequenceOfBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q23_VerifySequenceOfBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q24_FindPath$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q24_FindPath$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q24_FindPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q24_FindPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q25_Clone$RandomListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q25_Clone$RandomListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q25_Clone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q25_Clone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q26_Convert$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q26_Convert$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q26_Convert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q26_Convert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q27_Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q27_Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q28_MoreThanHalfNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q28_MoreThanHalfNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q29_GetLeastNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q29_GetLeastNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q2_ReplaceSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q2_ReplaceSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q30_FindGreatestSumOfSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q30_FindGreatestSumOfSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q31_NumberOf1Between1AndN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q31_NumberOf1Between1AndN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q32_PrintMinNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q32_PrintMinNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q33_GetUglyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q33_GetUglyNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q34_FirstNotRepeatingChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q34_FirstNotRepeatingChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q35_InversePairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q35_InversePairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q36_FindFirstCommonNode$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q36_FindFirstCommonNode$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q36_FindFirstCommonNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q36_FindFirstCommonNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q37_GetNumberOfK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q37_GetNumberOfK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q38_TreeDepth$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q38_TreeDepth$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q38_TreeDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q38_TreeDepth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q39_IsBalanced$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q39_IsBalanced$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q39_IsBalanced.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q39_IsBalanced.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q3_PrintListFromTailToHead$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q3_PrintListFromTailToHead$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q3_PrintListFromTailToHead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q3_PrintListFromTailToHead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q40_FindNumsAppearOnce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q40_FindNumsAppearOnce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q41_FindContinuousSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q41_FindContinuousSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q42_FindNumbersWithSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q42_FindNumbersWithSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q43_LeftRotateString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q43_LeftRotateString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q44_ReverseSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q44_ReverseSentence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q45_IsContinuous.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q45_IsContinuous.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q46_LastRemaining.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q46_LastRemaining.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q47_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q47_Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q48_Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q48_Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q49_StrToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q49_StrToInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q4_ReConstructBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q4_ReConstructBinaryTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q4_ReConstructBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q4_ReConstructBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q50_Duplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q50_Duplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q51_Multiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q51_Multiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q52_Match.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q52_Match.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q5_TwoStackOneQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q5_TwoStackOneQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q6_MinNumberInRotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q6_MinNumberInRotateArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q7_Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q7_Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q8_JumpFloor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q8_JumpFloor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jianzhi/Q9_JumpFloorII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jianzhi/Q9_JumpFloorII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q10_IsMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q10_IsMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q11_MaxArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q11_MaxArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q12_IntToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q12_IntToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q13_RomanToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q13_RomanToInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q14_LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q14_LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q15_ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q15_ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q16_ThreeSumClosest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q16_ThreeSumClosest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q17_LetterCombinations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q17_LetterCombinations$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q17_LetterCombinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q17_LetterCombinations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q18_FourSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q18_FourSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q1_TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q1_TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q2_AddTwoNumbers$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q2_AddTwoNumbers$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q2_AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q2_AddTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q3_LengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q3_LengthOfLongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q4_FindMedianSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q4_FindMedianSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q5_LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q5_LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q6_Convert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q6_Convert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q7_Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q7_Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q8_MyAtoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q8_MyAtoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Q9_IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Q9_IsPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/leetcode_and_interview.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jianzhi/Q30_FindGreatestSumOfSubArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jianzhi/Q30_FindGreatestSumOfSubArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jianzhi/Q31_NumberOf1Between1AndNTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jianzhi/Q31_NumberOf1Between1AndNTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jianzhi/Q33_GetUglyNumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jianzhi/Q33_GetUglyNumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jianzhi/Q35_InversePairsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jianzhi/Q35_InversePairsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jianzhi/Q41_FindContinuousSequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jianzhi/Q41_FindContinuousSequenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jianzhi/Q49_StrToIntTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jianzhi/Q49_StrToIntTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jianzhi/Q52_MatchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jianzhi/Q52_MatchTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,20 +221,21 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="leetcode" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="jianzhi" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode" />
+      <recent name="jianzhi" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.Q52_MatchTest.test">
-    <configuration name="Q44_ReverseSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi.Q44_ReverseSentence" />
+  <component name="RunManager" selected="Application.Q3_FindFriend">
+    <configuration name="Q2_XiaoMeiGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewMeituan.Q2_XiaoMeiGame" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi.*" />
+          <option name="PATTERN" value="interviewMeituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q46_LastRemaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi.Q46_LastRemaining" />
+    <configuration name="Q3_FindFriend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewMeituan.Q3_FindFriend" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi.*" />
+          <option name="PATTERN" value="interviewMeituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,68 +256,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q41_FindContinuousSequenceTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q4_Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewTencent.Q4_Median" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi.*" />
+          <option name="PATTERN" value="interviewTencent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jianzhi" />
-      <option name="MAIN_CLASS_NAME" value="jianzhi.Q41_FindContinuousSequenceTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q49_StrToIntTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SixNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewMeituan.SixNums" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi.*" />
+          <option name="PATTERN" value="interviewMeituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jianzhi" />
-      <option name="MAIN_CLASS_NAME" value="jianzhi.Q49_StrToIntTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q52_MatchTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TecentAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewTencent.TecentAlgo" />
       <module name="leetcode_and_interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi.*" />
+          <option name="PATTERN" value="interviewTencent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jianzhi" />
-      <option name="MAIN_CLASS_NAME" value="jianzhi.Q52_MatchTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q44_ReverseSentence" />
-      <item itemvalue="Application.Q46_LastRemaining" />
-      <item itemvalue="JUnit.Q41_FindContinuousSequenceTest.test1" />
-      <item itemvalue="JUnit.Q49_StrToIntTest.test" />
-      <item itemvalue="JUnit.Q52_MatchTest.test" />
+      <item itemvalue="Application.Q4_Median" />
+      <item itemvalue="Application.TecentAlgo" />
+      <item itemvalue="Application.SixNums" />
+      <item itemvalue="Application.Q2_XiaoMeiGame" />
+      <item itemvalue="Application.Q3_FindFriend" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Q52_MatchTest.test" />
-        <item itemvalue="JUnit.Q49_StrToIntTest.test" />
-        <item itemvalue="JUnit.Q41_FindContinuousSequenceTest.test1" />
-        <item itemvalue="Application.Q46_LastRemaining" />
-        <item itemvalue="Application.Q44_ReverseSentence" />
+        <item itemvalue="Application.Q3_FindFriend" />
+        <item itemvalue="Application.Q2_XiaoMeiGame" />
+        <item itemvalue="Application.SixNums" />
+        <item itemvalue="Application.TecentAlgo" />
+        <item itemvalue="Application.Q4_Median" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +332,16 @@
       <workItem from="1581477393464" duration="18928000" />
       <workItem from="1581737174253" duration="6631000" />
       <workItem from="1581929112375" duration="15469000" />
-      <workItem from="1582339559351" duration="104467000" />
+      <workItem from="1582339559351" duration="107361000" />
+      <workItem from="1583206266357" duration="12676000" />
+      <workItem from="1586916322682" duration="4605000" />
+      <workItem from="1587089334169" duration="3513000" />
+      <workItem from="1588130429899" duration="4751000" />
+      <workItem from="1589701068244" duration="2159000" />
+      <workItem from="1589809733868" duration="726000" />
+      <workItem from="1592884907449" duration="21564000" />
+      <workItem from="1599393471419" duration="7552000" />
+      <workItem from="1599566073890" duration="9800000" />
     </task>
     <servers />
   </component>
@@ -235,109 +349,88 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="192" key="#Project_Structure" timestamp="1582552728166">
+    <state x="2426" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1599393859267">
+      <screen x="1680" y="-57" width="1920" height="1080" />
+    </state>
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1595907818541" />
+    <state x="2426" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050/1680.-57.1920.1080@1680.-57.1920.1080" timestamp="1599393859267" />
+    <state x="364" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600567165985">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="192" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1582552728166" />
-    <state x="576" y="358" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1582430656312">
+    <state x="364" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1600567165985" />
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom" timestamp="1600830871381">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="576" y="358" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582430656312" />
-    <state x="100" y="100" width="1480" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582790976680">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="100" y="100" width="1480" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1582790976680" />
-    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1583069010377">
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1600830871381" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.-57.1920.1080@1680.-57.1920.1080" timestamp="1599400681664" />
+    <state width="1638" height="240" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.-34.1920.1057@0.23.1680.1027" timestamp="1600569997601" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.-34.1920.1057@1680.-34.1920.1057" timestamp="1599396823181" />
+    <state width="1638" height="240" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.-57.1920.1080@0.23.1680.1027" timestamp="1600571811946" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.-57.1920.1080@1680.-57.1920.1080" timestamp="1599400238528" />
+    <state width="1638" height="294" key="GridCell.Tab.0.bottom/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1596335191925" />
+    <state width="1638" height="294" key="GridCell.Tab.0.bottom/1680.222.1048.747/0.0.1680.1050@0.0.1680.1050" timestamp="1596349873149" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center" timestamp="1600830871379">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1583069010377" />
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582941308909">
+    <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1600830871379" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.0.1680.1050/1680.-57.1920.1080@1680.-57.1920.1080" timestamp="1599400681662" />
+    <state width="1638" height="240" key="GridCell.Tab.0.center/0.23.1680.1027/1680.-34.1920.1057@0.23.1680.1027" timestamp="1600569997598" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.23.1680.1027/1680.-34.1920.1057@1680.-34.1920.1057" timestamp="1599396823176" />
+    <state width="1638" height="240" key="GridCell.Tab.0.center/0.23.1680.1027/1680.-57.1920.1080@0.23.1680.1027" timestamp="1600571811940" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.23.1680.1027/1680.-57.1920.1080@1680.-57.1920.1080" timestamp="1599400238526" />
+    <state width="1638" height="294" key="GridCell.Tab.0.center/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1596335191923" />
+    <state width="1638" height="294" key="GridCell.Tab.0.center/1680.222.1048.747/0.0.1680.1050@0.0.1680.1050" timestamp="1596349873148" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left" timestamp="1600830871378">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582941308909" />
-    <state x="578" y="280" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1582681622943">
+    <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1600830871378" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.0.1680.1050/1680.-57.1920.1080@1680.-57.1920.1080" timestamp="1599400681660" />
+    <state width="1638" height="240" key="GridCell.Tab.0.left/0.23.1680.1027/1680.-34.1920.1057@0.23.1680.1027" timestamp="1600569997595" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.23.1680.1027/1680.-34.1920.1057@1680.-34.1920.1057" timestamp="1599396823175" />
+    <state width="1638" height="240" key="GridCell.Tab.0.left/0.23.1680.1027/1680.-57.1920.1080@0.23.1680.1027" timestamp="1600571811939" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.23.1680.1027/1680.-57.1920.1080@1680.-57.1920.1080" timestamp="1599400238524" />
+    <state width="1638" height="294" key="GridCell.Tab.0.left/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1596335191922" />
+    <state width="1638" height="294" key="GridCell.Tab.0.left/1680.222.1048.747/0.0.1680.1050@0.0.1680.1050" timestamp="1596349873148" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right" timestamp="1600830871380">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="578" y="280" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582681622943" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1583054454968">
+    <state width="1638" height="363" key="GridCell.Tab.0.right/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1600830871380" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.0.1680.1050/1680.-57.1920.1080@1680.-57.1920.1080" timestamp="1599400681663" />
+    <state width="1638" height="240" key="GridCell.Tab.0.right/0.23.1680.1027/1680.-34.1920.1057@0.23.1680.1027" timestamp="1600569997600" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.23.1680.1027/1680.-34.1920.1057@1680.-34.1920.1057" timestamp="1599396823178" />
+    <state width="1638" height="240" key="GridCell.Tab.0.right/0.23.1680.1027/1680.-57.1920.1080@0.23.1680.1027" timestamp="1600571811944" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.23.1680.1027/1680.-57.1920.1080@1680.-57.1920.1080" timestamp="1599400238527" />
+    <state width="1638" height="294" key="GridCell.Tab.0.right/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1596335191924" />
+    <state width="1638" height="294" key="GridCell.Tab.0.right/1680.222.1048.747/0.0.1680.1050@0.0.1680.1050" timestamp="1596349873149" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1600830871385">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583054454968" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582965482596" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056519" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017796" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1583054454967">
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1600830871385" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1600830871383">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583054454967" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582965482594" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056517" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017794" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1583054454966">
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1600830871383" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1600830871382">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583054454966" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582965482593" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056516" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017792" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1583054454967">
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1600830871382" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1600830871384">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583054454967" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582965482595" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737056518" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right/1680.222.1048.747/0.23.1680.1027@0.23.1680.1027" timestamp="1581671017795" />
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1582889516417">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582889259103" />
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582889516417" />
-    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1582889516414">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582889259101" />
-    <state width="1638" height="363" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582889516414" />
-    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1582889516414">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582889259101" />
-    <state width="1638" height="363" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582889516414" />
-    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1582889516416">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582889259102" />
-    <state width="1638" height="363" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582889516416" />
-    <state x="378" y="188" key="Maven.ArtifactSearchDialog" timestamp="1582774222938">
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1600830871384" />
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1599566090983">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="378" y="188" key="Maven.ArtifactSearchDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582774222938" />
-    <state x="564" y="239" width="900" height="722" key="SettingsEditor" timestamp="1583068847824">
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1599566090983" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1595907812010">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="564" y="239" width="900" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583068847824" />
-    <state x="341" y="164" key="SettingsEditor/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581512422176" />
-    <state x="494" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1582339601599">
+    <state x="505" y="248" key="run.anything.popup/0.0.1680.1050/1680.-57.1920.1080@0.0.1680.1050" timestamp="1595907812010" />
+    <state x="547" y="234" width="587" height="658" key="search.everywhere.popup" timestamp="1596332808159">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="494" y="359" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582339601599" />
-    <state x="494" y="359" key="com.intellij.ide.util.TipDialog/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581737175200" />
-    <state x="619" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582428088789">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="619" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582428088788" />
-    <state x="578" y="286" key="extract.method.dialog" timestamp="1582622020358">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="578" y="286" key="extract.method.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582622020358" />
-    <state x="546" y="151" key="refactoring.ChangeSignatureDialog" timestamp="1582707582840">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="546" y="151" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582707582840" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1583068901287">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1583068901287" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1581560859194" />
+    <state x="2305" y="184" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050/1680.-57.1920.1080@1680.-57.1920.1080" timestamp="1592884975328" />
+    <state x="547" y="234" width="587" height="658" key="search.everywhere.popup/1680.199.1048.770/0.0.1680.1050@0.0.1680.1050" timestamp="1596332808159" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

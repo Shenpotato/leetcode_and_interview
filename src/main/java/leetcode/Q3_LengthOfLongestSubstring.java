@@ -17,10 +17,7 @@ package leetcode;
 //     请注意，你的答案必须是子串的长度，"pwke" 是一个子序列，不是子串。
 
 
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.Map;
+import java.util.*;
 
 public class Q3_LengthOfLongestSubstring {
     public boolean findreplicate(String s) {
@@ -45,14 +42,14 @@ public class Q3_LengthOfLongestSubstring {
     // 思路一：给定长度，截取字符串，观察其中是否有重复元素
     public int lengthOfLongestSubstring(String s) {
         int slength = s.length();
-        if(slength == 1){
+        if (slength == 1) {
             return 1;
         }
         for (int i = slength; i > 0; i--) {
             int j = slength - i;
             for (int m = 0; m < j; m++) {
-                String substring = s.substring(m,m+i);
-                if(findreplicate(substring)){
+                String substring = s.substring(m, m + i);
+                if (findreplicate(substring)) {
                     return i;
                 }
             }
@@ -61,4 +58,26 @@ public class Q3_LengthOfLongestSubstring {
         return 0;
     }
 
+
+    // 思路二：滑动窗口
+    // 我们只需要对从每一个字符开始，最长能形成的连续字符串的长度进行比较
+    // (a)bcabcbb 开始的最长字符串为 (abc)abcbb
+    // a(b)cabcbb 开始的最长字符串为 a(bca)bcbb
+    public int lengthOfLongestSubstring2(String s) {
+        // 记录每个字符是否出现过
+        Set<Character> occurs = new HashSet<>();
+        int n = s.length();
+        int rp = -1, ans = 0;
+        for (int i = 0; i < n; i++) {
+            if (i != 0) {
+                occurs.remove(s.charAt(i - 1));
+            }
+            while (rp + 1 < n && !occurs.contains(s.charAt(rp + 1))){
+                occurs.add(s.charAt(rp+1));
+                ++rp;
+            }
+            ans = Math.max(ans, rp - i + 1);
+        }
+        return ans;
+    }
 }

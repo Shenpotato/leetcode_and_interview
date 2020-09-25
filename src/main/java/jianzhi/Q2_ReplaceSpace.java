@@ -28,4 +28,5 @@ public class Q2_ReplaceSpace {
         StringBuffer stringBuffer = new StringBuffer("hello world");
         System.out.println(q2_replaceSpace.replaceSpace(stringBuffer));
     }
+
 }

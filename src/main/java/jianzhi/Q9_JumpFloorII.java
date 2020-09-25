@@ -11,4 +11,13 @@ public class Q9_JumpFloorII {
         }
         return sum;
     }
+
+    public int jumpFloorIII(int target) {
+        int sum = 1;
+        for (int i = 0; i < target - 1; i++) {
+            sum = sum * 2;
+        }
+        return sum;
+    }
+
 }

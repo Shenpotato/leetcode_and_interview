@@ -1,5 +1,8 @@
 package jianzhi;
 
+import com.sun.tools.javac.util.ArrayUtils;
+import sun.security.util.ArrayUtil;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -45,6 +48,35 @@ public class Q13_ReOrderArray {
         }
     }
 
+
+    public void reOrderArray3(int[] array) {
+        int formerOdd = 0, formerEven = 0;
+        while(formerEven < array.length && formerOdd < array.length) {
+            while (array[formerEven] % 2 != 0){
+                if(formerEven == array.length -1) break;
+                formerEven++;
+            }
+            formerOdd = formerEven + 1;
+            while (array[formerOdd] % 2 != 1) {
+                if(formerOdd > array.length-1) break;
+                formerOdd++;
+            }
+            swapArray(array, formerEven, formerOdd);
+            swap(formerEven, formerOdd);
+        }
+    }
+
+    public void swapArray(int[] array, int i, int j){
+        int temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+
+    public void swap(int i, int j){
+        int temp = i;
+        i = j;
+        j = temp;
+    }
 
     public static void main(String[] args) {
         Q13_ReOrderArray q13_reOrderArray = new Q13_ReOrderArray();

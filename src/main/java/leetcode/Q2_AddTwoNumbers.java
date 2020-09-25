@@ -21,50 +21,33 @@ public class Q2_AddTwoNumbers {
     static class ListNode {
         int val;
         ListNode next;
-        ListNode(int x) { val = x; }
+
+        ListNode(int x) {
+            val = x;
+        }
     }
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode result = new ListNode(0);
-        ListNode currentnode = result;
-        int num1 = 0;
-        int num2 = 0;
-        int count1 = 1;
-        int count2 = 1;
-        while(l1 != null){
-            int time1 = 1;
-            for(int i = 0;i<count1-1;i++){
-                time1 = time1 * 10;
-            }
-            num1 = num1 + l1.val*time1;
-            count1 ++;
-            l1 = l1.next;
+        ListNode head = new ListNode(0);
+        ListNode cur = head;
+        int carry = 0;
+        while (l1 != null || l2 != null){
+            int x = (l1 != null) ? l1.val : 0;
+            int y = (l2 != null) ? l2.val : 0;
+            int sum = x + y + carry;
+            carry = sum / 10;
+            cur.next = new ListNode(sum % 10);
+            cur = cur.next;
+            if(l1 != null) l1 = l1.next;
+            if(l2 != null) l2 = l2.next;
         }
-        while(l2 !=null){
-            int time2 = 1;
-            for(int i = 0;i<count2-1;i++){
-                time2 = time2 * 10;
-            }
-            num2 = num2 + l2.val*time2;
-            count2 ++;
-            l2 = l2.next;
+        if(carry > 0){
+            cur.next = new ListNode(carry);
         }
+        return head.next;
 
-        System.out.println(num2);
-        int sum = num1 + num2;
-        char[] arrays = String.valueOf(sum).toCharArray();
-        System.out.println(arrays);
-        for(int i=arrays.length-1;i>=0;i--){
-            currentnode.val = Character.getNumericValue(arrays[i]);
-            if(i==0){
-                currentnode.next = null;
-                break;
-            }
-            currentnode.next = new ListNode(0);
-            currentnode = currentnode.next;
-        }
-        return result;
     }
+
 
     public static void main(String[] args) {
 //        ListNode l1 = new ListNode(2);
@@ -87,7 +70,7 @@ public class Q2_AddTwoNumbers {
         l2.next.next.next.next.next.next.next.next.next = new ListNode(9);
 
         Q2_AddTwoNumbers q2_addTwoNumbers = new Q2_AddTwoNumbers();
-        q2_addTwoNumbers.addTwoNumbers(l1,l2);
+        q2_addTwoNumbers.addTwoNumbers(l1, l2);
     }
 
 }

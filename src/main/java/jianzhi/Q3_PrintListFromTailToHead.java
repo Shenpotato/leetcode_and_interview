@@ -27,9 +27,12 @@ public class Q3_PrintListFromTailToHead {
             currentNode = currentNode.next;
         }
         // 翻转当前List
-        for (int i = listFromHeadToTail.size()-1; i >= 0; i--) {
+        for (int i = listFromHeadToTail.size() - 1; i >= 0; i--) {
             listFromTailToHead.add(listFromHeadToTail.get(i));
         }
         return listFromTailToHead;
     }
+
+
+
 }
